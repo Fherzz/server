@@ -140,20 +140,20 @@ maxProtectionLevel = 0
 	warriorSharpnessChance = 0
 	#The minimum level of Sharpness that Warrior Illager swords will be enchanted with.
 	#Range: 1 ~ 10
-	warriorMinSharpnessLevel = 0
+	warriorMinSharpnessLevel = 1
 	#The maximum level of Sharpness that Warrior Illager swords will be enchanted with.
 	#Range: 1 ~ 10
-	warriorMaxSharpnessLevel = 0
+	warriorMaxSharpnessLevel = 1
 	#Determines the chance that Warrior Illager swords will be enchanted with some level of Fire Aspect.
 	#Range: 0 ~ 100
 	warriorFireAspectChance = 0
 	#The level of Fire Aspect that Warrior Illager swords will be enchanted with.
 	#Range: 1 ~ 10
-	warriorFireAspectLevel = 0
+	warriorFireAspectLevel = 1
 	#Determines the chance that Warrior Illager swords will be enchanted with some level of Knockback.
 	#Range: 0 ~ 100
 	warriorKnockbackChance = 0
 	#The level of Knockback that Warrior Illager swords will be enchanted with.
 	#Range: 1 ~ 10
-	warriorKnockbackLevel = 0
+	warriorKnockbackLevel = 1
 
