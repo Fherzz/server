@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_fairy_ring_mushroom_habitat_classic_stool",
+    "count": 4
+  }
+}

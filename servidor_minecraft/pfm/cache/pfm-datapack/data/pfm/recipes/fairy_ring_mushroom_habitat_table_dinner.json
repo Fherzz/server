@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:fairy_ring_mushroom_habitat_table_dinner",
+    "count": 4
+  }
+}

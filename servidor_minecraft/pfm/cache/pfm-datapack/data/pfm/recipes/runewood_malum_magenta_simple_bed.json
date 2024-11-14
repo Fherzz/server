@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:runewood_malum_magenta_simple_bed"
+  }
+}

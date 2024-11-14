@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:soulwood_malum_kitchen_drawer"
+  }
+}

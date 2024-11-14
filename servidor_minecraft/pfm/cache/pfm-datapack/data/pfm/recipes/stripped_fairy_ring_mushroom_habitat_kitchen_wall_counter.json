@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_fairy_ring_mushroom_habitat_kitchen_wall_counter",
+    "count": 6
+  }
+}

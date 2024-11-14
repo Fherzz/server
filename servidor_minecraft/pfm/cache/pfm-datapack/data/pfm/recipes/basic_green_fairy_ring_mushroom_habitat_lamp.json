@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "green",
+        "variant": "habitat:fairy_ring_mushroom"
+      }
+    }
+  }
+}

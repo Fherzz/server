@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_congealed_enlightened_end_raw_table_log",
+    "count": 4
+  }
+}

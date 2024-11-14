@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_congealed_enlightened_end_classic_nightstand",
+    "count": 4
+  }
+}

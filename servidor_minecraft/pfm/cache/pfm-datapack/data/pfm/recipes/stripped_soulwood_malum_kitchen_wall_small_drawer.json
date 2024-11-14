@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_soulwood_malum_kitchen_wall_small_drawer",
+    "count": 3
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_table_modern_dinner",
+    "count": 4
+  }
+}

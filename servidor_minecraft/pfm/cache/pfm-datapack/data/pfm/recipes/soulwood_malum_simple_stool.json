@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:soulwood_malum_simple_stool",
+    "count": 4
+  }
+}

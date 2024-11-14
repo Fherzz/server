@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_fairy_ring_mushroom_habitat_kitchen_cabinet"
+  }
+}

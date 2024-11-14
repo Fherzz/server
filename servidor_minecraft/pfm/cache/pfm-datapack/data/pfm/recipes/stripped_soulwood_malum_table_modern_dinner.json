@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    },
+    {
+      "item": "malum:stripped_soulwood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_soulwood_malum_table_modern_dinner",
+    "count": 4
+  }
+}

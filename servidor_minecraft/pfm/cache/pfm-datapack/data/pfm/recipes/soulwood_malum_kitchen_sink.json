@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:soulwood_malum_kitchen_sink"
+  }
+}

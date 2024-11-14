@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_chair_modern",
+    "count": 4
+  }
+}

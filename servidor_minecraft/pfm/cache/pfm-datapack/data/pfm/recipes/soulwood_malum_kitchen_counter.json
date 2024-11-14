@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:soulwood_malum_kitchen_counter",
+    "count": 6
+  }
+}

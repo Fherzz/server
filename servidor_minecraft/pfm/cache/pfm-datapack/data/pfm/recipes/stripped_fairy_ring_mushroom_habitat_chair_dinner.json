@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:stripped_fairy_ring_mushroom_stem"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_fairy_ring_mushroom_habitat_chair_dinner",
+    "count": 4
+  }
+}

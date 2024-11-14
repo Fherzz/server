@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "wildbackport:mangrove_fence"
+    },
+    {
+      "item": "wildbackport:mangrove_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_cyan_classic_bed"
+  }
+}

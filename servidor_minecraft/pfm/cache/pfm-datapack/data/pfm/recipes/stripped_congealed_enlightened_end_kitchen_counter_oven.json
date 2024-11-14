@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:stripped_congealed_stem"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_congealed_enlightened_end_kitchen_counter_oven"
+  }
+}

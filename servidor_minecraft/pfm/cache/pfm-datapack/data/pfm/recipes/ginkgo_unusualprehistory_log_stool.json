@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:ginkgo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:ginkgo_unusualprehistory_log_stool",
+    "count": 4
+  }
+}

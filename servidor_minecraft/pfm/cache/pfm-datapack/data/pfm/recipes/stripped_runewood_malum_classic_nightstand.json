@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:stripped_runewood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_runewood_malum_classic_nightstand",
+    "count": 4
+  }
+}

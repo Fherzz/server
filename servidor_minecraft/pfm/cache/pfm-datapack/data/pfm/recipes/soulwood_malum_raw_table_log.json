@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    },
+    {
+      "item": "malum:soulwood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:soulwood_malum_raw_table_log",
+    "count": 4
+  }
+}

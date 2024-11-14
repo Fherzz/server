@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:fairy_ring_mushroom_habitat_classic_nightstand",
+    "count": 4
+  }
+}

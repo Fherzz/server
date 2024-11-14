@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "habitat:enhanced_fairy_ring_mushroom_stem"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    },
+    {
+      "item": "habitat:fairy_ring_mushroom_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:fairy_ring_mushroom_habitat_modern_stool",
+    "count": 4
+  }
+}

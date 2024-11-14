@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:stripped_mangrove_log"
+    },
+    {
+      "item": "wildbackport:stripped_mangrove_log"
+    },
+    {
+      "item": "wildbackport:stripped_mangrove_log"
+    },
+    {
+      "item": "wildbackport:stripped_mangrove_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mangrove_wildbackport_chair",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:lunar_blue_skies_chair_dinner",
+    "count": 4
+  }
+}

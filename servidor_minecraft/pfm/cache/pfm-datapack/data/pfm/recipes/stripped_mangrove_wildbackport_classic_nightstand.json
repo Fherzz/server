@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:stripped_mangrove_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mangrove_wildbackport_classic_nightstand",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:stripped_lunar_log"
+    },
+    {
+      "item": "blue_skies:stripped_lunar_log"
+    },
+    {
+      "item": "blue_skies:stripped_lunar_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lunar_blue_skies_chair_modern",
+    "count": 4
+  }
+}

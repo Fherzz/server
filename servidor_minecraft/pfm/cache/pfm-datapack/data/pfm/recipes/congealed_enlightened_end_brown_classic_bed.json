@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "enlightened_end:congealed_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "enlightened_end:congealed_fence"
+    },
+    {
+      "item": "enlightened_end:congealed_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:congealed_enlightened_end_brown_classic_bed"
+  }
+}

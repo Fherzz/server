@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:stripped_runewood_log"
+    },
+    {
+      "item": "malum:stripped_runewood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_runewood_malum_classic_stool",
+    "count": 4
+  }
+}

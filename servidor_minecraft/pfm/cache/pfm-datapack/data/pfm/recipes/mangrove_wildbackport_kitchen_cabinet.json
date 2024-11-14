@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "wildbackport:mangrove_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_kitchen_cabinet"
+  }
+}

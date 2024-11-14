@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_log_stool",
+    "count": 4
+  }
+}

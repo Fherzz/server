@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:walnut_ecologics_log_stool",
+    "count": 4
+  }
+}

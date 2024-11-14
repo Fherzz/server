@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:runewood_malum_kitchen_counter",
+    "count": 6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:runewood_malum_kitchen_wall_small_drawer",
+    "count": 3
+  }
+}

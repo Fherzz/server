@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "biomemakeover:blighted_balsa_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:blighted_balsa_biomemakeover_log_stool",
+    "count": 4
+  }
+}

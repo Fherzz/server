@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:coconut_ecologics_log_stool",
+    "count": 4
+  }
+}

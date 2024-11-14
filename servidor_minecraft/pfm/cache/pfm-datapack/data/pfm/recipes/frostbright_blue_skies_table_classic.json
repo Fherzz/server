@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:frostbright_blue_skies_table_classic",
+    "count": 4
+  }
+}

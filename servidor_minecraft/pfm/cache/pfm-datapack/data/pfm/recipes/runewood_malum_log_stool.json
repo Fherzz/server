@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "malum:runewood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:runewood_malum_log_stool",
+    "count": 4
+  }
+}

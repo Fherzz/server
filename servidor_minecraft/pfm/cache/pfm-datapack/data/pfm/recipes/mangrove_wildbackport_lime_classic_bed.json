@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "wildbackport:mangrove_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "wildbackport:mangrove_fence"
+    },
+    {
+      "item": "wildbackport:mangrove_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_wildbackport_lime_classic_bed"
+  }
+}

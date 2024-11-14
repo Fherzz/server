@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_log"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    },
+    {
+      "item": "malum:runewood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:runewood_malum_chair_dinner",
+    "count": 4
+  }
+}

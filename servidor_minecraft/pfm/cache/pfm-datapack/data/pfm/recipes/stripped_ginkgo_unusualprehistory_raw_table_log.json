@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ginkgo_unusualprehistory_raw_table_log",
+    "count": 4
+  }
+}
