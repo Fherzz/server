@@ -1,0 +1,17 @@
+{
+	id: "360fa88a-26d3-420a-b9f1-819e51475391"
+	type: "player"
+	player_name: "Fherzz"
+	ranks: {
+		360fa88a-26d3-420a-b9f1-819e51475391: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fherzz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
