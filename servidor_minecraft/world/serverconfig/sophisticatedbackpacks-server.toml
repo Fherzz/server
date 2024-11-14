@@ -18,7 +18,7 @@
 	#List of blocks that are not allowed to connect to backpacks - e.g. "refinedstorage:external_storage"
 	noConnectionBlocks = []
 	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["jukebox_upgrade|1", "stack_upgrades|3", "furnace_upgrades|1"]
+	maxUpgradesPerStorage = ["furnace_upgrades|1", "stack_upgrades|3", "jukebox_upgrade|1"]
 	#Determines if backpacks can be placed in container items (those that check for return value of canFitInsideContainerItems)
 	canBePlacedInContainerItems = false
 
