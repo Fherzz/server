@@ -1,21 +1,13 @@
-2024-11-15 03:16:15.809609268[CLIENT]/workspaces/server/servidor_minecraft/config/dcclasses
-2024-11-15 03:17:04.901002456[CLIENT]Registered class clazz dawncraft:brawler
-2024-11-15 03:17:04.902813601[CLIENT]Registered class clazz dawncraft:warrior
-2024-11-15 03:17:04.903081541[CLIENT]Registered class clazz dawncraft:berserker
-2024-11-15 03:17:04.903289518[CLIENT]Registered class clazz dawncraft:roamer
-2024-11-15 03:17:04.903477879[CLIENT]Registered class clazz dawncraft:lancer
-2024-11-15 03:17:04.903663114[CLIENT]Registered class clazz dawncraft:ronin
-2024-11-15 03:17:04.903905757[CLIENT]Registered class clazz dawncraft:astrologer
-2024-11-15 03:17:04.904092144[CLIENT]Registered class clazz dawncraft:tank
-2024-11-15 03:18:16.596235133[CLIENT]Applying dawncraft:brawler modififers to player Fherzz
-2024-11-15 03:18:16.604115399[CLIENT]Applying attribute minecraft:generic.max_health with value 24.0 to player Fherzz
-2024-11-15 03:18:16.606065804[CLIENT]Applying attribute paraglider:max_stamina with value 28.0 to player Fherzz
-2024-11-15 03:18:16.610505998[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
-2024-11-15 03:19:18.14191698[CLIENT]Applying dawncraft:berserker modififers to player SAG2102
-2024-11-15 03:19:18.143293355[CLIENT]Applying attribute minecraft:generic.max_health with value 20.0 to player SAG2102
-2024-11-15 03:19:18.146711455[CLIENT]Applying attribute paraglider:max_stamina with value 25.0 to player SAG2102
-2024-11-15 03:19:18.147419514[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
-2024-11-15 03:36:38.953801282[CLIENT]Applying dawncraft:brawler modififers to player Fherzz
-2024-11-15 03:36:38.958587462[CLIENT]Applying attribute minecraft:generic.max_health with value 24.0 to player Fherzz
-2024-11-15 03:36:38.959136435[CLIENT]Applying attribute paraglider:max_stamina with value 28.0 to player Fherzz
-2024-11-15 03:36:38.959633071[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.
+2024-11-15 05:02:11.850099505[CLIENT]/workspaces/server/servidor_minecraft/config/dcclasses
+2024-11-15 05:03:03.940669314[CLIENT]Registered class clazz dawncraft:brawler
+2024-11-15 05:03:03.942158374[CLIENT]Registered class clazz dawncraft:warrior
+2024-11-15 05:03:03.942669448[CLIENT]Registered class clazz dawncraft:berserker
+2024-11-15 05:03:03.943166325[CLIENT]Registered class clazz dawncraft:roamer
+2024-11-15 05:03:03.943645469[CLIENT]Registered class clazz dawncraft:lancer
+2024-11-15 05:03:03.944109346[CLIENT]Registered class clazz dawncraft:ronin
+2024-11-15 05:03:03.944645757[CLIENT]Registered class clazz dawncraft:astrologer
+2024-11-15 05:03:03.945118379[CLIENT]Registered class clazz dawncraft:tank
+2024-11-15 05:07:59.772518566[CLIENT]Applying dawncraft:brawler modififers to player Fherzz
+2024-11-15 05:07:59.774837234[CLIENT]Applying attribute minecraft:generic.max_health with value 24.0 to player Fherzz
+2024-11-15 05:07:59.777402761[CLIENT]Applying attribute paraglider:max_stamina with value 28.0 to player Fherzz
+2024-11-15 05:07:59.778266594[CLIENT]Attribute is paraglider:max_stamina, removing 28.0 points as default.

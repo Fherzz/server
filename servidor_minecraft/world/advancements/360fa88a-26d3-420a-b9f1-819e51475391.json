@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-23 03:01:13 +0000"
@@ -341,6 +347,7 @@
       "rotten_flesh": "2024-10-25 01:12:39 +0000",
       "dried_kelp": "2024-10-24 04:43:10 +0000",
       "melon_slice": "2024-11-07 03:21:34 +0000",
+      "cooked_chicken": "2024-11-15 06:15:41 +0000",
       "carrot": "2024-10-24 04:04:32 +0000"
     },
     "done": false
@@ -669,6 +676,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-10-23 03:28:28 +0000"
@@ -797,6 +810,12 @@
       "entered_nether": "2024-11-06 02:59:06 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
@@ -975,6 +994,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-10-24 03:11:38 +0000"
@@ -1117,6 +1142,12 @@
       "crafting_table": "2024-10-23 03:46:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
   },
   "kobolds:kobold_pet_advancement": {
     "criteria": {
@@ -1518,6 +1549,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-10-27 03:50:31 +0000"
@@ -1577,6 +1614,12 @@
       "game_state": "2024-10-23 03:01:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -1650,6 +1693,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-10-24 04:23:31 +0000"
@@ -1710,11 +1759,23 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2024-11-13 03:25:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-15 06:22:58 +0000"
+    },
+    "done": false
   },
   "endrem:main/lost_eye": {
     "criteria": {

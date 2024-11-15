@@ -13,4 +13,4 @@ configuration.json
 *.pyc
 *.msp
 *.output
-/respaldos
+/respaldos/world_respaldo.zip
