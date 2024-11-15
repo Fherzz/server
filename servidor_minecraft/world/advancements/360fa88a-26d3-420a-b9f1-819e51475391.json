@@ -229,6 +229,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2024-11-15 04:02:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "gem": "2024-11-01 02:49:47 +0000",
@@ -1833,6 +1839,12 @@
   "champions:kill_a_champion": {
     "criteria": {
       "kill_a_champion": "2024-10-27 01:29:58 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2024-11-15 04:01:06 +0000"
     },
     "done": true
   },

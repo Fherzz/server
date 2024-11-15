@@ -2403,3 +2403,51 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [15Nov2024 04:00:24.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 67.71855926513672) to LOW (avg. 30.33639144897461)
 [15Nov2024 04:00:39.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.33639144897461) to VERY_LOW (avg. 14.498313903808594)
 [15Nov2024 04:00:54.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.498313903808594) to LOW (avg. 22.432369232177734)
+[15Nov2024 04:01:06.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fherzz has made the advancement [Wireless]
+[15Nov2024 04:01:09.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.432369232177734) to VERY_LOW (avg. 8.350163459777832)
+[15Nov2024 04:01:47.386] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket@2cde88e0, suppressing error
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at com.refinedmods.refinedstorage.apiimpl.network.grid.CraftingGridBehavior.onRecipeTransfer(CraftingGridBehavior.java:202) ~[refinedstorage-1.10.6.jar%23266!/:1.10.6]
+	at com.refinedmods.refinedstorage.apiimpl.network.node.GridNetworkNode.onRecipeTransfer(GridNetworkNode.java:364) ~[refinedstorage-1.10.6.jar%23266!/:1.10.6]
+	at com.refinedmods.refinedstorage.network.grid.GridTransferMessage.lambda$handle$0(GridTransferMessage.java:64) ~[refinedstorage-1.10.6.jar%23266!/:1.10.6]
+	at net.minecraftforge.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:213) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at com.refinedmods.refinedstorage.network.grid.GridTransferMessage.handle(GridTransferMessage.java:59) ~[refinedstorage-1.10.6.jar%23266!/:1.10.6]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:153) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at net.minecraftforge.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:72) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23340!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23335!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15Nov2024 04:02:47.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fherzz has made the advancement [Upgrading]
+[15Nov2024 04:10:34.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Fherzz has made the advancement [Wireless items]
+[15Nov2024 04:11:17.039] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.568992614746094) to LOW (avg. 26.959060668945312)
+[15Nov2024 04:11:25.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.959060668945312) to HIGH (avg. 50.376827239990234)
+[15Nov2024 04:11:27.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[15Nov2024 04:11:35.822] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.376827239990234) to LOW (avg. 26.866788864135742)
+[15Nov2024 04:11:49.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.866788864135742) to VERY_LOW (avg. 18.798887252807617)
+[15Nov2024 04:12:11.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.075052261352539) to LOW (avg. 25.51534652709961)
+[15Nov2024 04:12:19.039] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.51534652709961) to VERY_LOW (avg. 16.56646156311035)
