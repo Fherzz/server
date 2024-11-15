@@ -1,0 +1,17 @@
+{
+	id: "294a0b5e-0f87-4ab7-938d-8c343afab680"
+	type: "player"
+	player_name: "AstroSlime"
+	ranks: {
+		294a0b5e-0f87-4ab7-938d-8c343afab680: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AstroSlime"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

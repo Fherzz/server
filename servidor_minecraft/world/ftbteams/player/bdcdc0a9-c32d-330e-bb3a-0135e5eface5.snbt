@@ -1,0 +1,17 @@
+{
+	id: "bdcdc0a9-c32d-330e-bb3a-0135e5eface5"
+	type: "player"
+	player_name: "sergiosc12"
+	ranks: {
+		bdcdc0a9-c32d-330e-bb3a-0135e5eface5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sergiosc12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

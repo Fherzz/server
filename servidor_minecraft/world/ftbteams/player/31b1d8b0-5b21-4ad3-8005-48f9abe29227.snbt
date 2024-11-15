@@ -1,0 +1,17 @@
+{
+	id: "31b1d8b0-5b21-4ad3-8005-48f9abe29227"
+	type: "player"
+	player_name: "SAG2102"
+	ranks: {
+		31b1d8b0-5b21-4ad3-8005-48f9abe29227: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SAG2102"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

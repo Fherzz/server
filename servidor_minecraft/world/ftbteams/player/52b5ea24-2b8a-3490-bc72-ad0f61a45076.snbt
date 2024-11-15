@@ -1,0 +1,17 @@
+{
+	id: "52b5ea24-2b8a-3490-bc72-ad0f61a45076"
+	type: "player"
+	player_name: "SERNACIO"
+	ranks: {
+		52b5ea24-2b8a-3490-bc72-ad0f61a45076: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SERNACIO"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
