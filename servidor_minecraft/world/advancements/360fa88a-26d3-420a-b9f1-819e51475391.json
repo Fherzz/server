@@ -169,6 +169,12 @@
     },
     "done": true
   },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2024-11-15 04:10:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-10-23 03:29:14 +0000"

@@ -2451,3 +2451,40 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [15Nov2024 04:11:49.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.866788864135742) to VERY_LOW (avg. 18.798887252807617)
 [15Nov2024 04:12:11.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.075052261352539) to LOW (avg. 25.51534652709961)
 [15Nov2024 04:12:19.039] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.51534652709961) to VERY_LOW (avg. 16.56646156311035)
+[15Nov2024 04:13:11.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.213123321533203) to LOW (avg. 20.67300033569336)
+[15Nov2024 04:13:26.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.67300033569336) to VERY_LOW (avg. 8.998640060424805)
+[15Nov2024 04:14:16.681] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:14:19.158] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.419918060302734) to LOW (avg. 29.065568923950195)
+[15Nov2024 04:14:20.535] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[15Nov2024 04:14:26.538] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.065568923950195) to VERY_LOW (avg. 9.32402515411377)
+[15Nov2024 04:14:49.293] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/common/STAT/0.25!
+[15Nov2024 04:14:57.452] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:14:57.454] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:15:56.757] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:15:58.537] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:bow/rare/EFFECT/0.33!
+[15Nov2024 04:16:01.164] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:shield/common/STAT/0.25!
+[15Nov2024 04:16:19.366] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.970974922180176) to LOW (avg. 22.645328521728516)
+[15Nov2024 04:16:26.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.645328521728516) to VERY_LOW (avg. 12.784357070922852)
+[15Nov2024 04:16:34.044] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.784357070922852) to LOW (avg. 34.751068115234375)
+[15Nov2024 04:16:49.038] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.751068115234375) to VERY_LOW (avg. 9.956527709960938)
+[15Nov2024 04:16:53.554] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:17:04.909] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/common/STAT/0.25!
+[15Nov2024 04:18:36.600] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:20:01.140] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/common/STAT/0.25!
+[15Nov2024 04:21:33.639] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/common/STAT/0.25!
+[15Nov2024 04:22:41.540] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.15874481201172) to LOW (avg. 22.93323516845703)
+[15Nov2024 04:22:58.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[15Nov2024 04:22:58.730] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.064170837402344) to VERY_HIGH (avg. 89.43617248535156)
+[15Nov2024 04:23:21.088] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 93.4137954711914) to LOW (avg. 20.674297332763672)
+[15Nov2024 04:23:36.088] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.674297332763672) to VERY_LOW (avg. 12.804033279418945)
+[15Nov2024 04:23:57.855] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:24:50.701] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:24:50.702] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:26:05.198] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:26:40.039] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/common/STAT/0.25!
+[15Nov2024 04:27:21.247] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:27:46.599] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[15Nov2024 04:28:23.253] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:28:23.254] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule majruszsdifficulty:tattered_helmet/common/STAT/0.25!
+[15Nov2024 04:28:52.192] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/common/STAT/0.25!
+[15Nov2024 04:29:42.402] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/common/STAT/0.25!
